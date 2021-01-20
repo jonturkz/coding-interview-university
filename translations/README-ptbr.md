@@ -316,7 +316,7 @@ Se você tem mais tempo (eu quero esse livro):
 Se você ler um desses, você deverá ter todo conhecimento de estrutura de dados e algoritmos que precisará para começar a resolver problemas de programação. 
 **Você pode pular todas as aulas em vídeo nesse projeto**, a não ser que você queira uma revisão.
 
-[Recursos adicionais específicos a cada linguagem aqui.](programming-language-resources.md)
+[Recursos adicionais específicos a cada linguagem aqui.](../programming-language-resources.md)
 
 ### C++
 
@@ -679,7 +679,6 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 ## Árvores
 
 - ### Árvores - Anotações e Fundamentos
-    - [ ] [Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees) (Série: Fundamentos de Árvores - vídeo)
     - [ ] [Series: Trees (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees) (Série: Árvores - vídeo)
     - contrução básica de árvore
     - transversal
